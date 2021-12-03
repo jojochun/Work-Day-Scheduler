@@ -17,7 +17,7 @@ jQuery
 ## WEBSITE
 
 https://jojochun.github.io/Work-Day-Scheduler/
-![a screenshot of my app](assets/images/Screen Shot 2021-11-30 at 12.53.36PM.png)
+![a screenshot of my app](assets/images/scheduler.png)
 
 ## CONTRIBUTION
 
